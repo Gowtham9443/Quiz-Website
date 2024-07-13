@@ -1,3 +1,3 @@
-#  React Quiz Website 💎
+#   Quiz Website 💎
 
 
